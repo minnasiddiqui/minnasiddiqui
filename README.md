@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @minnasiddiqui
-- 👀 I’m interested in computer science, specifically AI, data science, cybersecurity, and bioinformatics.
-- 🌱 I’m currently learning Java, CSS, HTML, and Javascript.
-- 💞️ I’m looking to collaborate on any beginner project that I can add to my resume
+- 👀 I’m interested in computer science, specifically AI, data science, business, and bioinformatics.
+- 🌱 I’m currently learning C++ and R
+- 💞️ I invite collaborations! Feel free to message me.
 - 📫 How to reach me - my linkedin is https://www.linkedin.com/in/minna-siddiqui
 
 <!---
