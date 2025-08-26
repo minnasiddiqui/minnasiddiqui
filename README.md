@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @minnasiddiqui
 - 👀 I’m interested in computer science, specifically AI, data science, business, and bioinformatics.
-- 🌱 I’m currently learning C++ and R
+- 🌱 I’m currently learning C++, R, and SQL
 - 💞️ I invite collaborations! Feel free to message me.
 - 📫 How to reach me - my linkedin is https://www.linkedin.com/in/minna-siddiqui
 
